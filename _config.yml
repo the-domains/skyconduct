@@ -1,7 +1,7 @@
 name: Sky Conduct
 favicon: null
-layout_spectrum: 0.75688
-typography_spectrum: 0.7922810849267989
+layout_spectrum: 0.01997
+typography_spectrum: 0.49728
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#4e5e6a'
     - '#e5742c'
   brandStrength: 0.625
-  lightness: 0.09000477055087686
+  lightness: 0.25
   saturation: 0
   rhythmicContrast: 1
 purpose: []
