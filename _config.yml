@@ -1,7 +1,7 @@
 name: Sky Conduct
 favicon: null
-layout_spectrum: 0.83514
-typography_spectrum: 0.49728
+layout_spectrum: 0.3127041303087026
+typography_spectrum: 0.17655956419184804
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0099cc'
-    - '#000000'
-    - '#4e5e6a'
-    - '#e5742c'
-  brandStrength: 0.1875
-  lightness: 0.25
-  saturation: 0
-  rhythmicContrast: 1
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.4528829352930188
+  lightness: 0.49047148530371487
+  saturation: 0.17710894206538796
+  rhythmicContrast: 0.4059623726643622
 purpose: []
