@@ -1,19 +1,4 @@
-name: Sky Conduct
-favicon: null
-layout_spectrum: 0.6833398852031678
 typography_spectrum: 0.3896053663920611
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2F2933'
@@ -25,4 +10,23 @@ color:
   lightness: 0.2823491571471095
   saturation: 0.9295757147483528
   rhythmicContrast: 0.14237470645457506
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6833398852031678
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sky Conduct
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: CoDrops
+    url: tympanus.net/codrops
+    type: external
+favicon: null
 purpose: []
